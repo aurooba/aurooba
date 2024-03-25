@@ -18,6 +18,7 @@ Thanks for stopping by!
 
 - 🔍 [The WordPress Core Blocks Explorer](https://wphelpers.dev/blocks)
 - ➕ [QuickPost](https://wordpress.org/plugins/quickpost/)
+- 📖 [JavaScript Essentials for WordPress Devs](https://aurooba.com/js-essentials-for-wp-devs/)
 - 🤫 a super secret project coming soon!
 
 
