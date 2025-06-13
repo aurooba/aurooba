@@ -17,7 +17,7 @@ Thanks for stopping by!
 ## Some fun things I've made recently
 
 - 🔍 [The WordPress Core Blocks Explorer](https://wphelpers.dev/blocks)
-- ➕ [Super List](https://wordpress.org/plugins/quickpost/](https://wordpress.org/plugins/superlist-block/)
+- ➕ [Super List](https://wordpress.org/plugins/superlist-block/)
 - 📖 [JavaScript Essentials for WordPress Devs](https://aurooba.com/js-essentials-for-wp-devs/)
 - 🤫 a super secret project coming soon!
 
